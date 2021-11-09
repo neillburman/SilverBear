@@ -7,7 +7,10 @@
     "\\src\\app",
     "\\src\\app\\home",
     "\\src\\app\\products",
-    "\\src\\app\\shared"
+    "\\src\\app\\shared",
+    "\\src\\assets",
+    "\\src\\environments"
   ],
+  "SelectedNode": "\\src\\app\\app.component.spec.ts",
   "PreviewInSolutionExplorer": false
 }
